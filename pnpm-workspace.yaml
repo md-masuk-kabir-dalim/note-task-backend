@@ -1,0 +1,11 @@
+packages:
+  - '.'
+
+allowBuilds:
+  '@prisma/client': false
+  '@prisma/engines': false
+  bcrypt: true
+  core-js: true
+  msgpackr-extract: true
+  prisma: false
+  sharp: true
